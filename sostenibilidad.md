@@ -62,5 +62,3 @@ Integrar la sostenibilidad en el desarrollo tecnológico es esencial para constr
 ## 📊 Recursos visuales
 
 ![Círculo de los ODS](assets/images/circulo_ods.png)
-
-> *Infografía del círculo de los ODS, almacenada en `/assets/circulo_ods.png`.*
